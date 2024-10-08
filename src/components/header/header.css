@@ -1,5 +1,7 @@
+
 .header {
   background-color: #003580;
+  position: fixed;
   color: white;
   display: flex;
   justify-content: center;
